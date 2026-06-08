@@ -106,6 +106,7 @@ _Browser-based tools that need no installation._
 ## AI & LLM Tools
 
 - [OpenAI API](https://platform.openai.com/) — GPT models, embeddings, and DALL·E.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — On-chain trust scoring MCP for AI agent wallets on Solana. Verify counterparty identity before x402 micropayments.
 - [Anthropic Claude](https://docs.anthropic.com/en/docs) — Claude API for safe AI interactions.
 - [LangChain](https://www.langchain.com/) — Framework for LLM-powered applications.
 - [Ollama](https://ollama.com/) — Run local LLMs on your machine.
